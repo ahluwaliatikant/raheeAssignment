@@ -1,16 +1,7 @@
-# raheeassignment
+# Rahee Assignment - Mental Health App UI
 
-A new Flutter application.
+## Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Light Mode           | Dark Mode            | Short Demo                 |
+|:-----------------------:|:--------------------:|:-------------------------:|
+| ![](https://github.com/ahluwaliatikant/raheeAssignment/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20(9).png) | ![](https://github.com/ahluwaliatikant/raheeAssignment/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20(10).png) | ![](https://github.com/ahluwaliatikant/raheeAssignment/blob/main/images/Screen_Recording_20210518-181937.gif) |
