@@ -37,7 +37,7 @@ class SmallCardTwo extends StatelessWidget {
               "Share your story",
               style: GoogleFonts.ptSans(
                   textStyle: TextStyle(
-                      fontSize: 15,
+                      fontSize: width>400?15:12,
                       fontWeight: FontWeight.w100,
                       color: Color(0xFF0E1417))),
             ),

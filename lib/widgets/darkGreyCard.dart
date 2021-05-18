@@ -53,7 +53,7 @@ class DarkGreyCard extends StatelessWidget {
             subtitle,
             style: GoogleFonts.ptSans(
               textStyle: TextStyle(
-                fontSize: 15,
+                fontSize: width>400?15:12,
                 color: Color(0xFFA8B3BE),
               ),
             ),
@@ -66,7 +66,7 @@ class DarkGreyCard extends StatelessWidget {
             style: GoogleFonts.poppins(
               textStyle: TextStyle(
                 fontWeight: FontWeight.bold,
-                fontSize: 20,
+                fontSize: width>400?20:17,
                 color: Colors.white,
               ),
             ),

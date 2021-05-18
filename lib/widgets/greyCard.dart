@@ -51,7 +51,7 @@ class GreyCard extends StatelessWidget {
             subtitle,
             style: GoogleFonts.ptSans(
               textStyle: TextStyle(
-                fontSize: 15,
+                fontSize: width>400?15:12,
               ),
             ),
           ),
@@ -63,7 +63,7 @@ class GreyCard extends StatelessWidget {
             style: GoogleFonts.poppins(
               textStyle: TextStyle(
                 fontWeight: FontWeight.bold,
-                fontSize: 20,
+                fontSize: width>400?20:17,
               ),
             ),
           ),
